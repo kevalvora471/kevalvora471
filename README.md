@@ -5,8 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/kevalvora01" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="vorayash9028" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kevalvora01/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vorayash9028" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kevalvora01" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevalvora01/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/keval_vora/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vorayash9028" height="30" width="40" /></a>
 </p>
 
